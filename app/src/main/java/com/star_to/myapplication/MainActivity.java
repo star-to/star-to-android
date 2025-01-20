@@ -1,4 +1,4 @@
-package com.starto.myapplication;
+package com.star_to.myapplication;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
@@ -24,7 +24,7 @@ import android.widget.Toast;
 import android.net.http.SslError;
 import android.webkit.SslErrorHandler;
 
-import com.starto.myapplication.R;
+import com.star_to.myapplication.R;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        web.loadUrl("https://star-to.co.kr/");
+        web.loadUrl("https://star-to.site");
 
     }
 

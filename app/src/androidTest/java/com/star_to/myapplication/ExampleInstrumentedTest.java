@@ -1,4 +1,4 @@
-package com.starto.myapplication;
+package com.star_to.myapplication;
 
 import android.content.Context;
 
